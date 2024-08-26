@@ -1,8 +1,8 @@
 # 💫 Hi there, I am MAZEN!
 I am a motivated software engineer with experience in improving, testing and updating existing software. Passionate about building robust, scalable software systems. What I do best is finding the ideal, faster, less-complicated and better solution while solving a problem or developing a feature.
 
-🔭 I’m currently working on built a good resume
-<br>🌱 I am currently learning software engineering, especially in Backend development with Node.js. <br>
+🔭 Know more about my experience via my [resume](https://docs.google.com/document/d/e/2PACX-1vTghpXlP7ncgKkBm8ucCmCGIm_rgVNFP6hrZuGG6DOgSM-xpPIkB-c3GR5F8OOsfRnN6pCiRVKvqvm5/pub).
+<br>🌱 I am currently learning software engineering, especially in Backend development. <br>
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@ I am a motivated software engineer with experience in improving, testing and upd
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,js,express,ts,nestjs,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,git,js,express,ts,nestjs,jest,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker,aws,,&perline=17" />
   </a>
 </p>
 

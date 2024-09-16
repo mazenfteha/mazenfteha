@@ -9,10 +9,6 @@ I am a motivated software engineer with experience in improving, testing and upd
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mazen-mohamed-b55294230)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/____Mazen?t=1LP8hP8VMxgm1oXSQYmQUw&s=09) 
 
 # 💻 Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,js,express,ts,nestjs,jest,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker,aws,,&perline=17" />
-  </a>
-</p>
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs,git,js,express,ts,nestjs,jest,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker,aws,github&perline=18" alt="Skill Icons" /> </a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

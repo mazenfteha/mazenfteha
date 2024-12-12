@@ -1,7 +1,7 @@
 # 💫 Hi there, I am MAZEN!
 I am a motivated software engineer with experience in improving, testing and updating existing software. Passionate about building robust, scalable software systems. What I do best is finding the ideal, faster, less-complicated and better solution while solving a problem or developing a feature.
 
-🔭 Know more about my experience via my [resume](https://docs.google.com/document/d/1C7ZUZAhiEGdHeh8I485bS2-rDm86Me5N-U-vA6uwqPQ/pub).
+🔭 Know more about my experience via my [resume](https://drive.google.com/file/d/1NJAs5EqYhS5fNbF4VKIvCVH9RdRBmHXd/view?usp=drive_link).
 <br>🌱 I am currently learning software engineering, especially in Backend development. <br>
 
 

@@ -10,6 +10,6 @@ I am a motivated software engineer with experience in improving, testing and upd
 
 
 # 💻 Tech Stack:
-<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs,git,js,express,ts,nestjs,jest,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker,aws,github,nginx,mysql,supabase,linux&perline=18" alt="Skill Icons" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs,git,js,java,spring,express,ts,nestjs,jest,graphql,postgres,prisma,sequelize,mongodb,rabbitmq,redis,kubernetes,docker,aws,github,nginx,mysql,supabase,linux,bun&perline=18" alt="Skill Icons" /> </a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

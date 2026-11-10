@@ -2,7 +2,7 @@
 I am a motivated software engineer with experience in improving, testing and updating existing software. Passionate about building robust, scalable software systems. What I do best is finding the ideal, faster, less-complicated and better solution while solving a problem or developing a feature.
 
 🔭 Know more about my experience via my [resume](https://drive.google.com/file/d/18jCrmSVgI4YxxNQ-JpHNfO3MSMABCbry/view?usp=sharing), [portfolio](https://mazenmohamed.framer.website/).
-<br>🌱 I am currently learning software engineering, especially in Backend development. <br>
+<br>🌱 Currently advancing my software engineering skills, with a focus on backend development. <br>
 
 
 ## 🌐 Socials:
